@@ -1,0 +1,19 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary/backup files
+*.bak
+*.tmp
+*.swp
+
+# Ignore compiled files (if scripts are added later)
+*.pyc
+*.class
+*.o
+*.out
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+__pycache__/
